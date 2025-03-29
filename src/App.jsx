@@ -1,6 +1,6 @@
 
 import './App.css'
-import Privacy from './page/privacy'
+import PrivacyPolicy from './page/PrivacyPolicy'
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
     <>
       
       
-          <Privacy />
+          <PrivacyPolicy />
 
 
     </>
