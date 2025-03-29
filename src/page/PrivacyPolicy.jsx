@@ -7,8 +7,9 @@ export default function PrivacyPolicy() {
         <p className="text-sm text-gray-600 mb-4">Last Updated: {lastUpdatedDate}</p>
         
         <p className="mb-4">
-          Welcome to Rental Surat. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our mobile application available on Android platforms.
-        </p>
+          
+Welcome to Rental Surat. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our mobile application available on Android platforms.
+</p>
         
         <h2 className="text-xl font-semibold mt-6">1. Interpretation and Definitions</h2>
         <h3 className="text-lg font-medium mt-4">Interpretation</h3>
@@ -17,7 +18,7 @@ export default function PrivacyPolicy() {
         <h3 className="text-lg font-medium mt-4">Definitions</h3>
         <ul className="list-disc pl-6 mb-4">
           <li><strong>Account:</strong> A unique account created for You to access our Service.</li>
-          <li><strong>Company:</strong> Rental Surat.</li>
+          <li><strong>Company("We","Us"or"Our"):</strong> Rental Surat.</li>
           <li><strong>Personal Data:</strong> Any information that relates to an identified or identifiable individual.</li>
           <li><strong>Service:</strong> The mobile application provided by Rental Surat.</li>
           <li><strong>Service Provider:</strong> Any third-party entity that processes data on behalf of the Company.</li>
@@ -26,6 +27,7 @@ export default function PrivacyPolicy() {
         </ul>
         
         <h2 className="text-xl font-semibold mt-6">2. Data Collection and Usage</h2>
+        <h5>Personal Data</h5>
         <p className="mb-4">When using our Service, we may collect the following Personal Data:</p>
         <ul className="list-disc pl-6 mb-4">
           <li>Name</li>
@@ -42,6 +44,8 @@ export default function PrivacyPolicy() {
           <li>App usage statistics</li>
           <li>Location data (if granted permission)</li>
         </ul>
+        
+
         
         <h2 className="text-xl font-semibold mt-6">3. How We Use Your Data</h2>
         <p className="mb-4">We use your data for:</p>
@@ -70,6 +74,8 @@ export default function PrivacyPolicy() {
         <p className="mb-4">We take reasonable security measures to protect your data. However, no digital transmission or storage system is 100% secure.</p>
         
         <h2 className="text-xl font-semibold mt-6">7. Your Rights</h2>
+        <p>You have the right to:
+        </p>
         <ul className="list-disc pl-6 mb-4">
           <li>Access, update, or delete your data</li>
           <li>Withdraw consent for certain data processing</li>
